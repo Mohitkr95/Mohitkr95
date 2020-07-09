@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Mohit Kumar**, I am an enthusiastic consumer of knowledge, highly impassioned for cutting edge technologies and research, and deeply motivated to apply my skills in the real-life project which can impact people.
+Welcome to my **GitHub** profile, I am **Mohit Kumar** and I am an enthusiastic consumer of knowledge, highly impassioned for cutting edge technologies and research, and deeply motivated to apply my skills in the real-life project which can impact people.
 
 I am currently working and building on these following domains-
 
@@ -25,5 +25,5 @@ I have expertise in Digital Marketing and I am pursuing it as part-time work by 
 
 My most pertinent courses include-  Machine Learning, ML model Deployment, Deep Learning, AWS, Communication Systems, Signal, and Systems, Linear Algebra, Digital System Designing, Digital Signal Processing, VLSI Designing, Microwave engineering and I am a scholar of "AI From the Data Center to the Edge – An Optimized Path Using Intel® Architecture" offered by Intel AI.
 
-I was one of the semi-finalists of TECHNOXIAN CHAMPIONSHIP'18 International Robotics League in which I participated in the Drone Racing event with my two other Team Members.
+I was one of the semi-finalists of **TECHNOXIAN CHAMPIONSHIP'18** International Robotics League in which I participated in the Drone Racing event with my two other Team Members.
 
