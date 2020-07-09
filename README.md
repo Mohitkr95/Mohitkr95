@@ -1,6 +1,6 @@
-### Hi there🤩👋
+### Hi there👋
 
-Welcome to my **GitHub** profile, I am **Mohit Kumar** and I am an enthusiastic consumer of knowledge, highly impassioned for cutting edge technologies and research, and deeply motivated to apply my skills in the real-life project which can impact people.✌️
+Welcome to my **GitHub** profile, I am **Mohit Kumar** and I am an enthusiastic consumer of knowledge, highly impassioned for cutting edge technologies and research, and deeply motivated to apply my skills in the real-life project which can impact people.🤩✌️
 
 I am currently working and building on these following domains-
 
