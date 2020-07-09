@@ -7,11 +7,17 @@ I am currently working and building on these following domains-
 •	Artificial Intelligence- Reinforcement Learning (RL), Deep RL
 
 •	Machine Learning- Statistical Machine Learning techniques and Algorithms.
+
 •	Data Science- Data Mining, Data Analysis, Predictive Modelling
+
 •	Deep Learning- ANN, CNN, RNN, Auto Encoders
+
 •	Computer Vision- Face Recognition
+
 •	Artificial Intelligence at Edge
+
 •	Embedded Systems- AVR, Arduino, 8051 Microcontroller, etc.
+
 •	Internet of Things (IoT)- ESP8266 Wifi Module, HC-05 Bluetooth Module
 
 I am also the recipient of the Udacity Bertelsmann Scholarship and Intel® Edge AI Scholarship for Artificial Intelligence among thousands of applicants across the globe. 
