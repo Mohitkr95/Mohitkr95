@@ -15,6 +15,6 @@ I am currently working and building on these following domains-
 •	**Computer Vision**- Face Recognition.
 
 I am also the recipient of the Udacity Bertelsmann Scholarship and Intel® Edge AI Scholarship for Artificial Intelligence among thousands of applicants across the globe. 
-I have expertise in Digital Marketing and I am pursuing it as part-time work by helping individuals and organizations to maximize and improve their reach on social media platforms and the Internet and I am also running a Digital Marketing and Technical Consulting Agency named **Siaz Media Technologies**.
+I have expertise in Digital Marketing and I am pursuing it as part-time work by helping individuals and organizations to maximize and improve their reach on social media platforms and the Internet and I am also running a Digital Marketing and Technical Consulting Agency named [Siaz Media Technologies](https://www.siazmediatechnologies.com/).
 
 
