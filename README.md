@@ -4,20 +4,21 @@ I am **Mohit Kumar**, I am an enthusiastic consumer of knowledge, highly impassi
 
 I am currently working and building on these following domains-
 
-•	Artificial Intelligence- Reinforcement Learning (RL), Deep RL
-•	Machine Learning- Statistical Machine Learning techniques and Algorithms.
+•	**Artificial Intelligence**- Reinforcement Learning (RL), Deep RL.
 
-•	Data Science- Data Mining, Data Analysis, Predictive Modelling
+•	**Machine Learning**- Statistical Machine Learning techniques and Algorithms.
 
-•	Deep Learning- ANN, CNN, RNN, Auto Encoders
+•	**Data Science**- Data Mining, Data Analysis, Predictive Modelling.
 
-•	Computer Vision- Face Recognition
+•	**Deep Learning**- ANN, CNN, RNN, Auto Encoders.
 
-•	Artificial Intelligence at Edge
+•	**Computer Vision**- Face Recognition.
 
-•	Embedded Systems- AVR, Arduino, 8051 Microcontroller, etc.
+•	**Artificial Intelligence at Edge**
 
-•	Internet of Things (IoT)- ESP8266 Wifi Module, HC-05 Bluetooth Module
+•	**Embedded Systems**- AVR, Arduino, 8051 Microcontroller, etc.
+
+•	**Internet of Things (IoT)**- ESP8266 Wifi Module, HC-05 Bluetooth Module
 
 I am also the recipient of the Udacity Bertelsmann Scholarship and Intel® Edge AI Scholarship for Artificial Intelligence among thousands of applicants across the globe. 
 I have expertise in Digital Marketing and I am pursuing it as part-time work by helping individuals and organizations to maximize and improve their reach on social media platforms and the Internet.
