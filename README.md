@@ -18,6 +18,6 @@ My current learning and project explorations are in these domains:
 
 From small solo projects to production level creative collaborations in my most pertinent skills, I have always looked for the chance to explore new venues and learn something new that I can apply to my work. I firmly believe that hard work eventually pays off, and I know that each day brings me closer to reaching my goals.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&&show_icons=true&title_color=54d1ff&icon_color=ff860d&text_color=F5F5F5&bg_color=1b1b1b" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact" align="right" height=150em>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&&show_icons=true&title_color=54d1ff&icon_color=ff860d&text_color=F5F5F5&bg_color=ebe4e4" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact" align="right" height=150em>
 
 
