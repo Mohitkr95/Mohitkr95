@@ -14,8 +14,6 @@ I am currently working and building on these following domains-
 
 •	**Computer Vision**- Face Recognition.
 
-I am also the recipient of the Udacity Bertelsmann Scholarship and Intel® Edge AI Scholarship for Artificial Intelligence among thousands of applicants across the globe.🤩
-
-I have expertise in Digital Marketing and I am pursuing it as part-time work by helping individuals and organizations to maximize and improve their reach on social media platforms and the Internet and I am also running a Digital Marketing and Technical Consulting Agency named [Siaz Media Technologies](https://www.siazmediatechnologies.com/).
+<img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&&show_icons=true&title_color=54d1ff&icon_color=ff860d&text_color=F5F5F5&bg_color=1b1b1b" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact" align="right" height=150em>
 
 
