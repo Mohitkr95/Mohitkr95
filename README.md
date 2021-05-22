@@ -20,4 +20,7 @@ From small solo projects to production level creative collaborations in my most 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&&show_icons=true&title_color=cf0000&icon_color=ff860d&text_color=000000&bg_color=fcfcfc" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact" align="right" height=150em>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&show_icons=true&theme=gotham" alt="Mohit Kumar | Stats" />
+
+
 
