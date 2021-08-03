@@ -4,8 +4,6 @@ Welcome to my **GitHub** profile, I am **Mohit Kumar** and I am an enthusiastic 
 
 My current learning and project explorations are in these domains:
 
-•	 **Quantum Computing & Quantum Information Science.**
-
 •	**Artificial Intelligence**- Reinforcement Learning (RL), Deep RL, AI at Edge.
 
 •	**Machine Learning**- Statistical Machine Learning techniques and Algorithms.
