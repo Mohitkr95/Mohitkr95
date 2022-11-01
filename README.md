@@ -4,10 +4,9 @@ Welcome to my **GitHub** profile, I am **Mohit Kumar** and I am an enthusiastic 
 
 My current tech stack and explorations include -
 
-𝐀𝐈 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics and Algorithms.
-
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Python, Golang, C/C++, Flask, FastAPI, Gin, Celery, Tensorflow Serving and PyTorch Serving.
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝: MySQL, Elasticsearch + Kibana, Redis, MongoDB and AWS.
+𝐀𝐈 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics and Algorithms.<br />
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Python, Golang, C/C++, Flask, FastAPI, Gin, Celery, Tensorflow Serving and PyTorch Serving.<br />
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝: MySQL, Elasticsearch + Kibana, Redis, MongoDB and AWS.<br />
 𝐃𝐞𝐯𝐎𝐩𝐬: Docker, Kubernetes, J-Meter, Linux tools, Git and Shell Script. 
 
 From small solo projects to production-level creative collaborations all are in my most pertinent skills, I have always looked for the chance to explore new venues and learn something new that I can apply to my work. I firmly believe that hard work eventually pays off, and I know that each day brings me closer to reaching my goals.
