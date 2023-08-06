@@ -1,19 +1,36 @@
-### Hi there👋
+# 👋 Hello, World! It's Mohit Kumar here!
 
-Welcome to my **GitHub** profile, I am **Mohit Kumar** and I am an enthusiastic consumer of knowledge, highly impassioned for cutting-edge technologies and research, and deeply motivated to apply my skills in a real-life project which can impact people.🚀
+Welcome to my vibrant corner of the GitHub universe! I am **Mohit Kumar**, a dedicated knowledge enthusiast, a tech aficionado, and a seasoned Machine Learning Engineer with 3 years of experience, fueled by an unquenchable thirst for innovation. My journey revolves around the convergence of cutting-edge technologies and their real-world applications that have the potential to ignite change. 🚀
 
-My current tech stack and explorations include -
+## 🌌 My Cosmic Quest
 
-𝐀𝐈 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics and Algorithms.<br />
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Python, Golang, C/C++, Flask, FastAPI, Gin, Celery, Tensorflow Serving and PyTorch Serving.<br />
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝: MySQL, Elasticsearch + Kibana, Redis, MongoDB and AWS.<br />
-𝐃𝐞𝐯𝐎𝐩𝐬: Docker, Kubernetes, J-Meter, Linux tools, Git and Shell Script. 
+Venturing through the realms of technology, my orbit spans across:
 
-From small solo projects to production-level creative collaborations all are in my most pertinent skills, I have always looked for the chance to explore new venues and learn something new that I can apply to my work. I firmly believe that hard work eventually pays off, and I know that each day brings me closer to reaching my goals.
+### 🛠️ Tech Arsenal
+- **Technologies**: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Science, Statistics, and Algorithms.
+- **Languages and Frameworks**: Python, Golang, C/C++, Groovy, Flask, FastAPI, Gin, Celery, and Tensorflow Serving and PyTorch Serving.
+- **Databases and Cloud**: PostgreSQL, Elasticsearch + Kibana, Redis, Memcached, MongoDB, and AWS Services.
+- **DevOps and MLOps**: Docker, Kubernetes, Jenkins, Terraform, J-Meter, RabbitMQ, Kafka, Linux tools, Git, and Shell Scripting.
 
-Kindly explore my portfolio, and feel free to get in touch with any questions. 
+### 🎯 Aiming Beyond
+From solo symphonies to collaborative symposiums, I've composed a repertoire of skills. Each endeavor an exploration, every challenge an opportunity, and every line of code a step towards innovation.
 
-## Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{Mohitkr95}/count.svg)
+I've learned that the true essence of progress is forged through diligent effort, and every sunrise heralds a day closer to my aspirations.
+
+## 📚 Embark on the Odyssey
+
+Dive into my portfolio, an anthology of endeavors that shape my technological expedition. Don't hesitate to embark on this journey with me and feel free to reach out with any queries or collaborations!
+
+## 🚀 Engage Warp Drive!
+
+Let's forge a connection in the digital cosmos. Feel free to explore, collaborate, and engage. Together, we can turn bits and bytes into revolutionary strides.
+
+---
+
+## 💡 Profile Visits
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Visitor Count" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&&show_icons=true&title_color=cf0000&icon_color=ff860d&text_color=000000&bg_color=fcfcfc" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact" align="right" height=150em>
