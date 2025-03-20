@@ -1,33 +1,25 @@
-# 👋 Hello, World! It's Mohit Kumar here!
+# Hey there 👋🏻
 
-Welcome to my vibrant corner of the GitHub universe! I am **Mohit Kumar**, a dedicated knowledge enthusiast, a tech aficionado, and a seasoned Machine Learning Engineer with 3 years of experience, fueled by an unquenchable thirst for innovation. My journey revolves around the convergence of cutting-edge technologies and their real-world applications that have the potential to ignite change. 🚀
+This is Mohit Kumar - I am a seasoned AI Architect and ML Engineer with a notable record of successfully managing enterprise-grade applications at scale. With over 4.5 years of experience in Machine Learning, I am an avid learner dedicated to staying abreast of cutting-edge technologies and research. I am deeply motivated to apply my skills to real-life projects that can positively impact people. 🚀
 
-## 🌌 My Cosmic Quest
+## Technical Skills
 
-Venturing through the realms of technology, my orbit spans across:
-
-### 🛠️ Tech Arsenal
-- **Technologies**: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Science, Statistics, and Algorithms.
-- **Languages and Frameworks**: Python, Golang, C/C++, Groovy, Flask, FastAPI, Gin, Celery, and Tensorflow Serving and PyTorch Serving.
-- **Databases and Cloud**: PostgreSQL, Elasticsearch + Kibana, Redis, Memcached, MongoDB, and AWS Services.
-- **DevOps and MLOps**: Docker, Kubernetes, Jenkins, Terraform, J-Meter, RabbitMQ, Kafka, Linux tools, Git, and Shell Scripting.
-
-### 🎯 Aiming Beyond
-From solo symphonies to collaborative symposiums, I've composed a repertoire of skills. Each endeavor an exploration, every challenge an opportunity, and every line of code a step towards innovation.
-
-I've learned that the true essence of progress is forged through diligent effort, and every sunrise heralds a day closer to my aspirations.
-
-## 📚 Embark on the Odyssey
-
-Dive into my portfolio, an anthology of endeavors that shape my technological expedition. Don't hesitate to embark on this journey with me and feel free to reach out with any queries or collaborations!
-
-## 🚀 Engage Warp Drive!
-
-Let's forge a connection in the digital cosmos. Feel free to explore, collaborate, and engage. Together, we can turn bits and bytes into revolutionary strides.
+- **AI and Data Science**: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics and Algorithms.
+- **Languages and Frameworks**: Python, Golang, C/C++, Flask, FastAPI, Gin, Celery, vLLM, MLFlow, Tensorflow Serving and PyTorch Serving.
+- **Databases and Cloud**: Postgres, Elasticsearch + Kibana, Weaviate, Qdrant, Redis, MongoDB, AWS, GCP, Azure and OCI.
+- **DevOps**: Docker, Kubernetes, Jenkins, Terraform, Groovy, J-Meter, Linux tools, Git and Shell Script.
 
 ---
 
-## 💡 Profile Visits
+From small solo projects to production-level creative collaborations, all are within my most pertinent skills. I have always sought the chance to explore new avenues and learn something new that I can apply to my work. I firmly believe that hard work eventually pays off, and I am confident that each day brings me closer to reaching my goals.
+
+Kindly explore my portfolio, and feel free to get in touch with any questions.
+
+📧 for project collaboration: krmohit101 [at] gmail [dot] com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohitkumar1999/) ❤️
+
+---
+
+## Profile Statistics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohitkr95" alt="Visitor Count" />
