@@ -5,7 +5,7 @@ This is Mohit Kumar - I am a seasoned AI Architect and ML Engineer with a notabl
 ## Technical Skills
 
 - **AI and Data Science**: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics and Algorithms.
-- **Languages and Frameworks**: Python, Golang, C/C++, Flask, FastAPI, Gin, Celery, vLLM, MLFlow, Tensorflow Serving and PyTorch Serving.
+- **Languages and Frameworks**: Python, Golang, C/C++, Flask, FastAPI, Gin, Celery, vLLM, Ollama, MLFlow, Tensorflow Serving and PyTorch Serving.
 - **Databases and Cloud**: Postgres, Elasticsearch + Kibana, Weaviate, Qdrant, Redis, MongoDB, AWS, GCP, Azure and OCI.
 - **DevOps**: Docker, Kubernetes, Jenkins, Terraform, Groovy, J-Meter, Linux tools, Git and Shell Script.
 
