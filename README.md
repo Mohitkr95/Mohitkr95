@@ -21,8 +21,15 @@ Kindly explore my portfolio, and feel free to get in touch with any questions.
 
 ## Profile Statistics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohitkr95" alt="Visitor Count" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&&show_icons=true&title_color=cf0000&icon_color=ff860d&text_color=000000&bg_color=fcfcfc" align="left" height=150em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact" align="right" height=150em>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact&theme=default&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
