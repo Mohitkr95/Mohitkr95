@@ -17,6 +17,21 @@ Kindly explore my portfolio, and feel free to get in touch with any questions.
 
 📧 for project collaboration: krmohit101 [at] gmail [dot] com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohitkumar1999/) ❤️
 
+<div align="center">
+  <a href="mailto:krmohit101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohitkumar1999/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mohitkr777">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/imohit_`kr">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 ## Profile Statistics
