@@ -17,6 +17,8 @@ Kindly explore my portfolio, and feel free to get in touch with any questions.
 
 📧 for project collaboration: krmohit101 [at] gmail [dot] com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohitkumar1999/) ❤️
 
+---
+
 <div align="center">
   <a href="mailto:krmohit101@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
