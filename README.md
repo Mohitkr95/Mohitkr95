@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Hey+there%2C+I'm+Mohit+Kumar+%F0%9F%91%8B" alt="Typing SVG" />
   
   <p align="center">
-    <b>AI Architect | ML Engineer | Problem Solver</b><br>
-    <i>Building intelligent systems that make a difference</i>
+    <b>AI Solution Architect | Problem Solver</b><br>
+    <i>I write code, build scalable AI and share ideas.</i>
   </p>
   
   <p>
@@ -17,21 +17,21 @@
 
 ---
 
-## 💫 About Me
+<!-- ## 💫 About Me -->
 
 I'm a seasoned AI Architect and ML Engineer with over 4.5 years of experience in building and managing enterprise-grade applications at scale. I'm passionate about staying current with cutting-edge technologies and applying my skills to create real-world impact. 🚀
 
-<details>
+<!-- <details>
 <summary>Read more about me...</summary>
-<br>
+<br> -->
 From small solo projects to production-level creative collaborations, all are within my most pertinent skills. I have always sought the chance to explore new avenues and learn something new that I can apply to my work. I firmly believe that hard work eventually pays off, and I am confident that each day brings me closer to reaching my goals.
 
-Kindly explore my portfolio, and feel free to get in touch with any questions.
+Kindly explore my portfolio, and feel free to get in touch with any questions. ❤️
 
-📧 For project collaboration: krmohit101 [at] gmail [dot] com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohitkumar1999/) ❤️
-</details>
+<!-- 📧 For project collaboration: krmohit101 [at] gmail [dot] com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohitkumar1999/) ❤️
+</details> -->
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
   <table>
