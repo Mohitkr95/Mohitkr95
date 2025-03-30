@@ -54,18 +54,20 @@ Kindly explore my portfolio, and feel free to get in touch with any questions.
   </table>
 </div>
 
-## 📊 GitHub Statistics
+## Profile Statistics
 
 <div align="center">
-  <a href="https://github.com/Mohitkr95">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohitkr95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+   <table width="100%">
+     <tr>
+       <td>
+         <img src="https://github-readme-stats.vercel.app/api?username=Mohitkr95&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+       </td>
+       <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkr95&layout=compact&theme=default&hide_border=true" />
+       </td>
+     </tr>
+   </table>
+ </div>
 
 ---
 
